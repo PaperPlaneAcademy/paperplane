@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Paper Plane Academy</title>
+    <link>blog url</link>
+    <description>Keep Learning Keep shipping</description>
+    <pubDate>Wed, 15 Jan 2014 05:48:00 -0800</pubDate>
+    <item>
+      <title>Welcome to Paper Plane Academy</title>
+      <link>blog url/general/2014/01/15/welcome-to-paper-plane-academy.html</link>
+      <description>&lt;p&gt;The Paper Plane Academy Team is very excited to annouced that we have officially launched!
+Hopefully this will be the start of a great community of women commit to each other success with the goal of getting Sh*t Done!&lt;/p&gt;
+</description>
+      <pubDate>Wed, 15 Jan 2014 05:48:00 -0800</pubDate>
+      <dc:date>2014-01-15T05:48:00-08:00</dc:date>
+    </item>
+    <dc:date>2014-01-15T05:48:00-08:00</dc:date>
+  </channel>
+</rss>
