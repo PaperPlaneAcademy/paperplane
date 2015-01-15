@@ -1,0 +1,80 @@
+name: Paper Plane Academy
+description: Keep Learning Keep shipping
+meta_description: "Paper Plane Academy"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: "/"
+blog: /blog/index.html
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'blog url'
+
+authors:
+  team:
+    name: PaperPlane Team
+    display_name: The Team
+    gravatar: profile.png
+    email: jorgen@company.com
+    web: http://company.com
+    twitter: company
+    github: jorgenm
+    bio: The Paper Plane Academy is the brainchild of four friends with the scope to help women achieve their professional goals
+  sere:
+    name: Serena Cameirano
+    display_name: Serena
+    email: serena@paperplaneacademy.org
+    web: http://paperplaneacademy.org
+    twitter: cameiras
+    github: cameiras
+  mere:
+    name: Elena Petrucciano
+    display_name: Elena
+    email: elena@paperplaneacademy.org
+    web: hhttp://paperplaneacademy.org
+    twitter: twitter
+  elena:
+    name: Meredith Swinehart
+    display_name: Meredith
+    email: meredith@paperplaneacademy.org
+    web: hhttp://paperplaneacademy.org
+    twitter: 
+  carola:
+    name: Carola Pescio Canale
+    display_name: Carola
+    email: carola@paperplaneacademy.org
+    web: hhttp://paperplaneacademy.org
+    twitter: twitter
+
+  sere:
+    name: Serena Cameirano
+    display_name: Serena
+    email: serena@paperplaneacademy.org
+    web: http://paperplaneacademy.org
+    twitter: cameiras
+    github: cameiras
+  mere:
+    name: Elena Petrucciano
+    display_name: Elena
+    email: elena@paperplaneacademy.org
+    web: hhttp://paperplaneacademy.org
+    twitter: twitter
+  elena:
+    name: Meredith Swinehart
+    display_name: Meredith
+    email: meredith@paperplaneacademy.org
+    web: hhttp://paperplaneacademy.org
+    twitter: 
+  carola:
+    name: Carola Pescio Canale
+    display_name: Carola
+    email: carola@paperplaneacademy.org
+    web: hhttp://paperplaneacademy.org
+    twitter: twitter
+
+
+paginate_path: "blog/posts/:num"
