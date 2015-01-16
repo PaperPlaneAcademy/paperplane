@@ -68,7 +68,7 @@ about: 'about-us.html'
     </div>
     
     {% for post in paginator.posts %}
-    {% assign author = site.authors[page.author] %}
+    {% assign author = site.authors[post.author] %}
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -77,7 +77,7 @@ about: 'about-us.html'
             {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a>
         </section>
         <footer class="post-meta"> 
-                <img class="author-thumb" src="/assets/images/{{ post.author.gravatar}}" alt="Author's profile picture" nopin="nopin" />
+                <img class="author-thumb" src="/assets/images/{{ author.gravatar}}" alt="Author's profile picture" nopin="nopin" />
                  {{ author.display_name }} 
 
             {% if post.categories.size > 0 %} 
