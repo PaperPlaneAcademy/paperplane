@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: "/paperplane/"
 blog: blog/index.html
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://www.paperplaneacademy.org'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
