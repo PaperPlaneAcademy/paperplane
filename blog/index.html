@@ -66,8 +66,9 @@ about: 'about-us.html'
     <div class="extra-pagination inner">
         {% include pagination.html %}
     </div>
-    {% assign author = site.authors[page.author] %}
+    
     {% for post in paginator.posts %}
+    {% assign author = site.authors[page.author] %}
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
