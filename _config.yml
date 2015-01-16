@@ -10,6 +10,7 @@ baseurl: "/paperplane/"
 blog: blog/index.html
 domain_name: 'http://www.paperplaneacademy.org'
 google_analytics: 'UA-XXXXXXXX-X'
+email: info@paperplaneacademy.org
 
 # Details for the RSS feed generator
 url:            'blog url'
