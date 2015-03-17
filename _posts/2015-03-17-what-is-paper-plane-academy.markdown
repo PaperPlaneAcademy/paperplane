@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "What is Paper Plane Academy"
-author: Serena
+author: sere
 date:   2014-03-17 14:59:00
 categories: General
 ---
 
 **What is Paper Plane Academy?**
-
 It is a community of women entrepreneur that are committed to help one another business and success.
 
 **Wait, Why yet another community?**
