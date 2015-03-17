@@ -53,31 +53,4 @@ authors:
     web: hhttp://paperplaneacademy.org
     twitter: twitter
 
-  sere:
-    name: Serena Cameirano
-    display_name: Serena
-    email: serena@paperplaneacademy.org
-    web: http://paperplaneacademy.org
-    twitter: cameiras
-    github: cameiras
-  mere:
-    name: Elena Petrucciano
-    display_name: Elena
-    email: elena@paperplaneacademy.org
-    web: hhttp://paperplaneacademy.org
-    twitter: twitter
-  elena:
-    name: Meredith Swinehart
-    display_name: Meredith
-    email: meredith@paperplaneacademy.org
-    web: hhttp://paperplaneacademy.org
-    twitter: 
-  carola:
-    name: Carola Pescio Canale
-    display_name: Carola
-    email: carola@paperplaneacademy.org
-    web: hhttp://paperplaneacademy.org
-    twitter: twitter
-
-
 paginate_path: "blog/posts/:num"
