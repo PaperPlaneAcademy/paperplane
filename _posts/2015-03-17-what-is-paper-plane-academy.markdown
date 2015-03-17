@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title:  "What is Paper Plane Academy"
 author: Serena
