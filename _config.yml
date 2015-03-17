@@ -28,10 +28,12 @@ authors:
   sere:
     name: Serena Cameirano
     display_name: Serena
+    gravatar: sere.jpg
     email: serena@paperplaneacademy.org
     web: http://paperplaneacademy.org
     twitter: cameiras
     github: cameiras
+    bio: Serena has 7+ years experience in software development. Previously she worked at CERN, Microsoft and now at Salesforce
   mere:
     name: Elena Petrucciano
     display_name: Elena
