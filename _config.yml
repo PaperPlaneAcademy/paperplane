@@ -12,6 +12,7 @@ domain_name: 'http://www.paperplaneacademy.org'
 google_analytics: 'UA-XXXXXXXX-X'
 email: info@paperplaneacademy.org
 
+
 # Details for the RSS feed generator
 url:            'blog url'
 
@@ -30,7 +31,7 @@ authors:
     display_name: Serena
     gravatar: sere.jpg
     email: serena@paperplaneacademy.org
-    web: http://paperplaneacademy.org
+    web: www.linkedin.com/in/serenacameirano
     twitter: cameiras
     github: cameiras
     bio: Serena has 7+ years experience in software development. Previously she worked at CERN, Microsoft and now at Salesforce
@@ -50,7 +51,8 @@ authors:
     name: Carola Pescio Canale
     display_name: Carola
     email: carola@paperplaneacademy.org
-    web: hhttp://paperplaneacademy.org
-    twitter: twitter
+    web: https://www.linkedin.com/in/carolapc
+    twitter: https://twitter.com/aloracpc
+    gravatar: carola.jpg
 
 paginate_path: "blog/posts/:num"
