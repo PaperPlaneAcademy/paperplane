@@ -203,6 +203,7 @@
 }
 .home .img-container img {
   width: 100%;
+  border-radius: 10px;
 }
 .home .section-testimonials .carousel-control {
   left: -70px;
