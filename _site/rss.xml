@@ -8,7 +8,16 @@
     <title>Paper Plane Academy</title>
     <link>blog url</link>
     <description>Keep Learning Keep shipping</description>
-    <pubDate>Wed, 15 Jan 2014 05:48:00 -0800</pubDate>
+    <pubDate>Mon, 17 Mar 2014 07:59:00 -0700</pubDate>
+    <item>
+      <title>What is Paper Plane Academy</title>
+      <link>blog url/general/2014/03/17/what-is-paper-plane-academy.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;What is Paper Plane Academy?&lt;/strong&gt;
+It is a community of women entrepreneur that are committed to help one another business and success.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 17 Mar 2014 07:59:00 -0700</pubDate>
+      <dc:date>2014-03-17T07:59:00-07:00</dc:date>
+    </item>
     <item>
       <title>Welcome to Paper Plane Academy</title>
       <link>blog url/general/2014/01/15/welcome-to-paper-plane-academy.html</link>
@@ -18,6 +27,6 @@ Hopefully this will be the start of a great community of women commit to each ot
       <pubDate>Wed, 15 Jan 2014 05:48:00 -0800</pubDate>
       <dc:date>2014-01-15T05:48:00-08:00</dc:date>
     </item>
-    <dc:date>2014-01-15T05:48:00-08:00</dc:date>
+    <dc:date>2014-03-17T07:59:00-07:00</dc:date>
   </channel>
 </rss>
