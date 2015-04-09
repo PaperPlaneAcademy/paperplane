@@ -7,7 +7,7 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: "/paperplane"
+#baseurl: "/paperplane"
 blog: blog/index.html
 domain_name: 'http://www.paperplaneacademy.org'
 google_analytics: 'UA-XXXXXXXX-X'

@@ -325,7 +325,7 @@ demo = {
 
 examples = {
     initContactUsMap: function(){
-        var myLatlng = new google.maps.LatLng(37.776724, -122.455316);
+        var myLatlng = new google.maps.LatLng(37.794112, -122.394853);
         var mapOptions = {
           zoom: 14,
           center: myLatlng,
