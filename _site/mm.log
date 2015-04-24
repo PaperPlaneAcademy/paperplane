@@ -1,3 +1,28 @@
 Starting new HTTPS connection (1): h1-s7-sc-dev-ed.my.salesforce.com
 Starting new HTTPS connection (1): h1-s7-sc-dev-ed.my.salesforce.com
 Starting new HTTPS connection (1): na24.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D1a000000Hh9O!ARwAQDsc_zNRCGY.XfRALWkVSwYBberk6yY5G2bBPNkEJLz0CCP4QYT5iiDSRcmMMmL8MdejtIKjbLNrRdKR.J9Edw6iuXF_</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header/>
+   <ns1:Body>
+      <ns0:login>
+         <ns0:username>h1@sprint7.sarath</ns0:username>
+         <ns0:password>verticals123</ns0:password>
+      </ns0:login>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): na24.salesforce.com
+Starting new HTTPS connection (1): na24.salesforce.com
+Starting new HTTPS connection (1): na24.salesforce.com
+Starting new HTTPS connection (1): na24.salesforce.com
