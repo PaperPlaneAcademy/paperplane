@@ -37,12 +37,12 @@ Here is our Agenda for the event&#58;
 
 
 [1]: http://www.eventbrite.com/e/paper-plane-academy-startup-day-tickets-16426783953
-Please reserve your spot here [http://www.eventbrite.com/e/paper-plane-academy-startup-day-tickets-16426783953] [1]
+Please reserve your spot here <p class='blueRef'>[http://www.eventbrite.com/e/paper-plane-academy-startup-day-tickets-16426783953] [1] </p>
  
-For more info about our organization check [http://paperplaneacademy.org/][3]
+For more info about our organization check <p class='blueRef'>[http://paperplaneacademy.org/][3]</p>
 
 [3]: http://paperplaneacademy.org/
 
-This event is kindly sponsored by 1920C. A new co-working space in the heart of San Francisco: [http://www.1920c.com/][4]
+This event is kindly sponsored by 1920C. A new co-working space in the heart of San Francisco: <p class='blueRef'>[http://www.1920c.com/][4]</p>
 
 [4]: http://www.1920c.com/
