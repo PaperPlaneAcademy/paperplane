@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Paper Plane Academy First Startup Day: Learn by doing
+title:  Paper Plane Academy First Startup Day&#58; Learn by doing
 author: sere
 date:   2015-04-23 20:17:00
 categories: StartUp Day
@@ -42,6 +42,5 @@ Here is our Agenda for the event:
 7.30 pm Closing Ceremony - 30 min
 - Winner announcement
 - Networking
-
 
 For more info about our organization check http://paperplaneacademy.org/
